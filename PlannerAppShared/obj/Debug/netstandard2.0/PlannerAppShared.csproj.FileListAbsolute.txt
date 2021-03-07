@@ -1,0 +1,9 @@
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\bin\Debug\netstandard2.0\PlannerAppShared.deps.json
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\bin\Debug\netstandard2.0\PlannerAppShared.dll
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\bin\Debug\netstandard2.0\PlannerAppShared.pdb
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\obj\Debug\netstandard2.0\PlannerAppShared.csprojAssemblyReference.cache
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\obj\Debug\netstandard2.0\PlannerAppShared.AssemblyInfoInputs.cache
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\obj\Debug\netstandard2.0\PlannerAppShared.AssemblyInfo.cs
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\obj\Debug\netstandard2.0\PlannerAppShared.csproj.CoreCompileInputs.cache
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\obj\Debug\netstandard2.0\PlannerAppShared.dll
+C:\Users\ENG\source\repos\PlannerApp\PlannerAppShared\obj\Debug\netstandard2.0\PlannerAppShared.pdb
